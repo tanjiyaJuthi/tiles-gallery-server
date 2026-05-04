@@ -3,7 +3,7 @@
   {
     "id": "tile_001",
     "title": "Ceramic Blue Tile",
-    "description": "Premium ceramic tile with blue glaze finish",
+    "description": "Premium ceramic wall and floor tile featuring a rich blue glazed surface. Designed for durability and moisture resistance, it is ideal for bathrooms, kitchens, and accent walls where a bold yet elegant color statement is desired.",
     "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
     "category": "ceramic",
     "price": 45.99,
@@ -17,7 +17,7 @@
   {
     "id": "tile_002",
     "title": "Glossy White Tile",
-    "description": "High-gloss ceramic tile with a clean white finish",
+    "description": "High-quality porcelain tile with a smooth, reflective white surface. Its clean and minimalist appearance enhances natural light, making spaces feel larger and more open. Suitable for modern interiors and commercial environments.",
     "image": "https://images.pexels.com/photos/6444255/pexels-photo-6444255.jpeg",
     "category": "porcelain",
     "price": 39.99,
@@ -31,7 +31,7 @@
   {
     "id": "tile_003",
     "title": "Matte Grey Tile",
-    "description": "Modern matte grey tile ideal for contemporary spaces",
+    "description": "Contemporary matte-finish stone tile in a neutral grey tone. It offers a subtle, non-reflective surface that blends well with modern and industrial design themes while providing strong durability for high-traffic areas.",
     "image": "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg",
     "category": "stone",
     "price": 42.5,
@@ -45,7 +45,7 @@
   {
     "id": "tile_004",
     "title": "Marble Effect Tile",
-    "description": "Elegant ceramic tile with marble-like texture",
+    "description": "Elegant marble-look composite tile designed to replicate natural stone veining. It combines luxury aesthetics with easier maintenance and higher durability, making it suitable for upscale interiors such as living rooms and hotel lobbies.",
     "image": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg",
     "category": "marble",
     "price": 55,
@@ -59,7 +59,7 @@
   {
     "id": "tile_005",
     "title": "Beige Stone Tile",
-    "description": "Natural stone-look ceramic tile in warm beige tone",
+    "description": "Warm beige limestone-style tile offering a natural earthy aesthetic. Its subtle texture and neutral tone make it ideal for creating calm, organic-inspired interiors in both residential and commercial spaces.",
     "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
     "category": "limestone",
     "price": 47.25,
@@ -73,7 +73,7 @@
   {
     "id": "tile_006",
     "title": "Black Polished Tile",
-    "description": "Sleek polished black tile for luxury interiors",
+    "description": "Luxurious polished granite tile with deep black coloration and mirror-like surface. It is designed for premium interiors, offering a bold, dramatic look while maintaining exceptional durability and scratch resistance.",
     "image": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
     "category": "granite",
     "price": 52.99,
@@ -87,7 +87,7 @@
   {
     "id": "tile_007",
     "title": "Textured Brown Tile",
-    "description": "Rustic textured tile with a natural brown finish",
+    "description": "Rustic wood-composite tile with a natural brown tone and tactile surface texture. It mimics real wood grain while offering enhanced resistance to moisture, making it suitable for both indoor and semi-outdoor applications.",
     "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg",
     "category": "wood",
     "price": 44.75,
@@ -101,7 +101,7 @@
   {
     "id": "tile_008",
     "title": "Patterned Mosaic Tile",
-    "description": "Decorative mosaic tile with intricate patterns",
+    "description": "Decorative mosaic tile composed of glass and ceramic pieces arranged in intricate patterns. Ideal for accent walls, backsplashes, and artistic installations that require visual complexity and vibrant detailing.",
     "image": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg",
     "category": "mosaic",
     "price": 60,
@@ -115,7 +115,7 @@
   {
     "id": "tile_009",
     "title": "Terracotta Tile",
-    "description": "Classic terracotta-style ceramic tile",
+    "description": "Traditional terracotta clay tile with warm earthy tones and a handcrafted appearance. It brings a rustic Mediterranean feel to interiors and is well-suited for patios, kitchens, and heritage-style spaces.",
     "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg",
     "category": "terracotta",
     "price": 38.9,
@@ -129,7 +129,7 @@
   {
     "id": "tile_010",
     "title": "Wood Look Tile",
-    "description": "Ceramic tile with realistic wood grain appearance",
+    "description": "Durable vinyl composite tile designed to replicate the appearance of natural hardwood flooring. It combines aesthetic warmth with easy maintenance and water resistance, making it suitable for high-use areas.",
     "image": "https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg",
     "category": "vinyl",
     "price": 49.99,
@@ -143,7 +143,7 @@
   {
     "id": "tile_011",
     "title": "Glass Shine Tile",
-    "description": "Reflective glass tile for modern interior walls",
+    "description": "Modern tempered glass tile designed for reflective wall applications. It enhances brightness and depth in interiors, making it a popular choice for contemporary kitchens, bathrooms, and feature walls.",
     "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
     "category": "glass",
     "price": 58.5,
@@ -157,7 +157,7 @@
   {
     "id": "tile_012",
     "title": "Metallic Silver Tile",
-    "description": "Industrial-style metallic finish tile",
+    "description": "Industrial-inspired aluminum composite tile with a sleek metallic silver finish. It adds a modern, architectural aesthetic to interiors and is often used for accent walls and contemporary design projects.",
     "image": "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg",
     "category": "metal",
     "price": 62,
