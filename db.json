@@ -3,8 +3,6 @@
   {
     "id": "tile_001",
     "title": "Ceramic Blue Tile",
-    "description": "Premium ceramic wall and floor tile featuring a rich blue glazed surface. Designed for durability and moisture resistance, it is ideal for bathrooms, kitchens, and accent walls where a bold yet elegant color statement is desired.",
-    "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
     "category": "ceramic",
     "price": 45.99,
     "currency": "USD",
@@ -12,13 +10,26 @@
     "material": "Ceramic",
     "inStock": true,
     "color": "Blue",
-    "effect": "Glossy glazed finish"
+    "effect": "Glossy glazed finish",
+    "overview": {
+      "description": "Premium ceramic wall and floor tile featuring a rich blue glazed surface designed for stylish interiors."
+    },
+    "features": [
+      "Water-resistant glazed surface",
+      "Suitable for bathrooms and kitchens",
+      "Durable ceramic construction",
+      "Easy to clean and maintain"
+    ],
+    "specification": {
+      "dimensions": "60x60 cm",
+      "material": "Ceramic",
+      "finish": "Glossy glazed",
+      "usage": "Wall & Floor"
+    }
   },
   {
     "id": "tile_002",
     "title": "Glossy White Tile",
-    "description": "High-quality porcelain tile with a smooth, reflective white surface. Its clean and minimalist appearance enhances natural light, making spaces feel larger and more open. Suitable for modern interiors and commercial environments.",
-    "image": "https://images.pexels.com/photos/6444255/pexels-photo-6444255.jpeg",
     "category": "porcelain",
     "price": 39.99,
     "currency": "USD",
@@ -26,13 +37,26 @@
     "material": "Porcelain",
     "inStock": true,
     "color": "White",
-    "effect": "High-gloss reflective finish"
+    "effect": "High-gloss reflective finish",
+    "overview": {
+      "description": "Clean and modern porcelain tile with a bright glossy white surface that enhances interior brightness."
+    },
+    "features": [
+      "High light reflection",
+      "Scratch-resistant surface",
+      "Modern minimalist design",
+      "Low maintenance finish"
+    ],
+    "specification": {
+      "dimensions": "60x60 cm",
+      "material": "Porcelain",
+      "finish": "High gloss",
+      "usage": "Indoor flooring & walls"
+    }
   },
   {
     "id": "tile_003",
     "title": "Matte Grey Tile",
-    "description": "Contemporary matte-finish stone tile in a neutral grey tone. It offers a subtle, non-reflective surface that blends well with modern and industrial design themes while providing strong durability for high-traffic areas.",
-    "image": "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg",
     "category": "stone",
     "price": 42.5,
     "currency": "USD",
@@ -40,13 +64,26 @@
     "material": "Natural Stone",
     "inStock": false,
     "color": "Grey",
-    "effect": "Matte natural stone finish"
+    "effect": "Matte natural stone finish",
+    "overview": {
+      "description": "Modern matte grey stone tile designed for subtle, elegant and contemporary interior spaces."
+    },
+    "features": [
+      "Anti-slip matte surface",
+      "Natural stone durability",
+      "Neutral design compatibility",
+      "Suitable for heavy traffic areas"
+    ],
+    "specification": {
+      "dimensions": "60x60 cm",
+      "material": "Natural Stone",
+      "finish": "Matte",
+      "usage": "Indoor & commercial spaces"
+    }
   },
   {
     "id": "tile_004",
     "title": "Marble Effect Tile",
-    "description": "Elegant marble-look composite tile designed to replicate natural stone veining. It combines luxury aesthetics with easier maintenance and higher durability, making it suitable for upscale interiors such as living rooms and hotel lobbies.",
-    "image": "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg",
     "category": "marble",
     "price": 55,
     "currency": "USD",
@@ -54,13 +91,26 @@
     "material": "Marble Composite",
     "inStock": true,
     "color": "White with grey veining",
-    "effect": "Polished marble effect"
+    "effect": "Polished marble effect",
+    "overview": {
+      "description": "Elegant marble-look tile offering luxury aesthetics with easier maintenance and enhanced durability."
+    },
+    "features": [
+      "Luxury marble appearance",
+      "Stain-resistant surface",
+      "Polished premium finish",
+      "Cost-effective alternative to real marble"
+    ],
+    "specification": {
+      "dimensions": "80x80 cm",
+      "material": "Marble Composite",
+      "finish": "Polished",
+      "usage": "Luxury interiors"
+    }
   },
   {
     "id": "tile_005",
     "title": "Beige Stone Tile",
-    "description": "Warm beige limestone-style tile offering a natural earthy aesthetic. Its subtle texture and neutral tone make it ideal for creating calm, organic-inspired interiors in both residential and commercial spaces.",
-    "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
     "category": "limestone",
     "price": 47.25,
     "currency": "USD",
@@ -68,13 +118,26 @@
     "material": "Limestone",
     "inStock": true,
     "color": "Beige",
-    "effect": "Natural matte stone finish"
+    "effect": "Natural matte stone finish",
+    "overview": {
+      "description": "Warm beige limestone tile with a natural earthy aesthetic suitable for calm and organic interior designs."
+    },
+    "features": [
+      "Natural earthy tone",
+      "Soft matte texture",
+      "Eco-friendly stone material",
+      "Ideal for warm interiors"
+    ],
+    "specification": {
+      "dimensions": "60x60 cm",
+      "material": "Limestone",
+      "finish": "Natural matte",
+      "usage": "Residential & commercial floors"
+    }
   },
   {
     "id": "tile_006",
     "title": "Black Polished Tile",
-    "description": "Luxurious polished granite tile with deep black coloration and mirror-like surface. It is designed for premium interiors, offering a bold, dramatic look while maintaining exceptional durability and scratch resistance.",
-    "image": "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg",
     "category": "granite",
     "price": 52.99,
     "currency": "USD",
@@ -82,91 +145,22 @@
     "material": "Granite",
     "inStock": false,
     "color": "Black",
-    "effect": "High-gloss polished reflective finish"
-  },
-  {
-    "id": "tile_007",
-    "title": "Textured Brown Tile",
-    "description": "Rustic wood-composite tile with a natural brown tone and tactile surface texture. It mimics real wood grain while offering enhanced resistance to moisture, making it suitable for both indoor and semi-outdoor applications.",
-    "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg",
-    "category": "wood",
-    "price": 44.75,
-    "currency": "USD",
-    "dimensions": "60x60 cm",
-    "material": "Wood Composite",
-    "inStock": true,
-    "color": "Brown",
-    "effect": "Textured wood grain rustic finish"
-  },
-  {
-    "id": "tile_008",
-    "title": "Patterned Mosaic Tile",
-    "description": "Decorative mosaic tile composed of glass and ceramic pieces arranged in intricate patterns. Ideal for accent walls, backsplashes, and artistic installations that require visual complexity and vibrant detailing.",
-    "image": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg",
-    "category": "mosaic",
-    "price": 60,
-    "currency": "USD",
-    "dimensions": "30x30 cm",
-    "material": "Glass & Ceramic Mix",
-    "inStock": true,
-    "color": "Multicolor",
-    "effect": "Decorative glossy mosaic pattern"
-  },
-  {
-    "id": "tile_009",
-    "title": "Terracotta Tile",
-    "description": "Traditional terracotta clay tile with warm earthy tones and a handcrafted appearance. It brings a rustic Mediterranean feel to interiors and is well-suited for patios, kitchens, and heritage-style spaces.",
-    "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg",
-    "category": "terracotta",
-    "price": 38.9,
-    "currency": "USD",
-    "dimensions": "50x50 cm",
-    "material": "Terracotta Clay",
-    "inStock": true,
-    "color": "Orange-red",
-    "effect": "Rustic matte earthy finish"
-  },
-  {
-    "id": "tile_010",
-    "title": "Wood Look Tile",
-    "description": "Durable vinyl composite tile designed to replicate the appearance of natural hardwood flooring. It combines aesthetic warmth with easy maintenance and water resistance, making it suitable for high-use areas.",
-    "image": "https://images.pexels.com/photos/164005/pexels-photo-164005.jpeg",
-    "category": "vinyl",
-    "price": 49.99,
-    "currency": "USD",
-    "dimensions": "20x120 cm",
-    "material": "Vinyl Composite",
-    "inStock": false,
-    "color": "Natural wood brown",
-    "effect": "Realistic wood grain matte finish"
-  },
-  {
-    "id": "tile_011",
-    "title": "Glass Shine Tile",
-    "description": "Modern tempered glass tile designed for reflective wall applications. It enhances brightness and depth in interiors, making it a popular choice for contemporary kitchens, bathrooms, and feature walls.",
-    "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
-    "category": "glass",
-    "price": 58.5,
-    "currency": "USD",
-    "dimensions": "40x40 cm",
-    "material": "Tempered Glass",
-    "inStock": true,
-    "color": "Clear with silver tint",
-    "effect": "High-shine reflective glass finish"
-  },
-  {
-    "id": "tile_012",
-    "title": "Metallic Silver Tile",
-    "description": "Industrial-inspired aluminum composite tile with a sleek metallic silver finish. It adds a modern, architectural aesthetic to interiors and is often used for accent walls and contemporary design projects.",
-    "image": "https://images.pexels.com/photos/276554/pexels-photo-276554.jpeg",
-    "category": "metal",
-    "price": 62,
-    "currency": "USD",
-    "dimensions": "60x60 cm",
-    "material": "Aluminum Composite",
-    "inStock": true,
-    "color": "Silver",
-    "effect": "Brushed metallic sheen finish"
+    "effect": "High-gloss polished reflective finish",
+    "overview": {
+      "description": "Premium black granite tile with a mirror-like polished surface for luxurious interior designs."
+    },
+    "features": [
+      "Ultra glossy finish",
+      "High durability granite",
+      "Scratch resistant surface",
+      "Luxury aesthetic appeal"
+    ],
+    "specification": {
+      "dimensions": "60x60 cm",
+      "material": "Granite",
+      "finish": "Polished",
+      "usage": "Premium interiors"
+    }
   }
 ],
   "categories": [
